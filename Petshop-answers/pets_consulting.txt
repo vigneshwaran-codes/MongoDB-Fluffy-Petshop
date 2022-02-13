@@ -1,0 +1,41 @@
+db.pets_consulting.insertMany([
+{
+"id":"1",
+"Session":"Consult a Vet",
+"Duration":"30 min",
+"Reviews":"1689",
+"Price":"299.00",
+"Quantity":"1",
+},
+{
+"id":"2",
+"Session":"Training Consultation",
+"Durations":"60 mins",
+"Reviews":"212",
+"Price":"399.00",
+"Training":"1:1",
+"Certified":"Internationally trainers"
+}
+])
+
+/*  again updating  */
+
+db.pets_consulting.insertMany([
+{
+"id":"3",
+"Session":"Essential Care",
+"Duration":"1 month Follow ups",
+"Reviews":"125",
+"Price":"499",
+"Mode":"Online"
+},
+{
+"id":"4",
+"Session":"Home Consultation",
+"Review":"150+",
+"Benefits":"Full Body Health Checkup",
+"charged":"Medications",
+"Price":"699",
+"Mode":"Home Visit"
+}
+])

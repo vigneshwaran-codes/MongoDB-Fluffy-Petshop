@@ -1,0 +1,42 @@
+db.pets_toys.insertMany([
+{
+"id":"1",
+"Brand":"Kong",
+"Product":"puppy teething stick",
+"Color":"SkyBlue",
+"size":"(S,M)",
+"Price":"595.00"
+},
+{
+"id":"2",
+"Brand":"M-Pets",
+"Product":"M-pets Rex Treat Dispenser",
+"Color":"Green",
+"size":"S",
+"Price":"483.00"
+},
+{
+"id":"3",
+"Brand":"GiGwi Suppa Puppa",
+"Product":"Lion Squeaker",
+"Color":"Pink with Dark Blue",
+"size":"S",
+"Price":"550.00"
+},
+{
+"id":"4",
+"Brand":"GiGwi Suppa Puppa",
+"Product":"Alligator Toy",
+"Color":"Purple & Peach Green",
+"size":"S",
+"Price":"399.00"
+},
+{
+"id":"5",
+"Brand":"Emily Pets",
+"Product":"Teething Toy with Rope",
+"Color":"Blue",
+"size":"S",
+"Price":"699.00"
+}
+])

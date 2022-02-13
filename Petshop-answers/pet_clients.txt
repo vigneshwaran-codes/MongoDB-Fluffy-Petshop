@@ -1,0 +1,47 @@
+db.pets_clients.insertMany([
+{
+"id":"1",
+"full_name":"Lucky",
+"email":"lucky@gmail.com",
+"house/flat no":"B-Block/42",
+"city":"Chennai",
+"state":"TamilNadu",
+"contact-no":"6788765433"
+},
+{
+"id":"2",
+"full_name":"Berry",
+"email":"berry@gmail.com",
+"house/flat no":"happy villas",
+"city":"Salem",
+"state":"TamilNadu",
+"contact-no":"8800333200"
+},
+{
+"id":"3",
+"full_name":"Ashmita",
+"email":"ashmita@gmail.com",
+"house/flat no":"Akshaya Homes",
+"city":"Chennai",
+"state":"TamilNadu",
+"contact-no":"6224446789"
+},
+{
+"id":"4",
+"full_name":"Lilly",
+"email":"lilly@mail.com",
+"house/flat no":"old no.99/ new no.43",
+"city":"Kancheepuram",
+"state":"TamiNadu",
+"contact-no":"7878654321"
+},
+{
+"id":"5",
+"full_name":"Snoopy",
+"email":"snoopy@gmail.com",
+"house/flat no":"g-flats/no.12",
+"city":"Coimbatore",
+"state":"TamilNadu",
+"contact-no":"9898909010"
+}
+])

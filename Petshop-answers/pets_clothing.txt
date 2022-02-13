@@ -1,0 +1,42 @@
+db.pets_clothing.insertMany([
+{
+"id":"1",
+"Product_name":"Winter Polyfill Dog Jackets",
+"Brand":"Petsnugs",
+"color":"Military Green Color",
+"Price":"849",
+"Discount":"15%"
+},
+{
+"id":"2",
+"Product_name":"Jackets with Hoodie",
+"Brand":"Petsnugs",
+"color":"Navy Blue",
+"Price":"934",
+"Discount":"15%"
+},
+{
+"id":"3",
+"Product_name":"Fur Coated Dog Sweaters",
+"Brand":"Petsnugs",
+"color":"Red",
+"Price":"764",
+"Discount":"15%"
+},
+{
+"id":"4",
+"Product_name":"Reversible Jackets",
+"Brand":"Mutt of Course",
+"color":"Rustic Orange",
+"Price":"1,359",
+"Discount":"15%"
+},
+{
+"id":"5",
+"Product_name":"Fur Coated Paw Sweaters",
+"Brand":"Petsnugs",
+"color":"Red",
+"Price":"722",
+"Discount":"15%"
+}]
+)

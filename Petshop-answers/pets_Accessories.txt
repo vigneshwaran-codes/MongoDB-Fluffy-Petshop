@@ -1,0 +1,30 @@
+db.pets_accessories.insertMany([
+{
+"id":"1",
+"Product_name":"Durable Rope Training Leash",
+"Brand":"PetSutra",
+"Price":"281",
+"Discount":"25%",
+},
+{
+"id":"2",
+"Product_name":"Premium Nylon Dog Collar",
+"Brand":"Trixie",
+"Price":"224",
+"Discount":"10%",
+},
+{
+"id":"3",
+"Product_name":"Stylish Light Denim Dog Collar",
+"Brand":"Mutt",
+"Price":"439",
+"Discount":"12%",
+},
+{
+"id":"4",
+"Product_name":"Car Seat Cover",
+"Brand":"Wahl",
+"Price":"2025",
+"Discount":"10%",
+}
+])

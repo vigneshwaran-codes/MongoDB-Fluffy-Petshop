@@ -1,0 +1,36 @@
+db.pet_foods.insertMany([
+{
+"id":"1",
+"brand":"Arden Grange",
+"type":"Puppy dry food",
+"price":"3,943.00",
+"Quantity":"6kg"
+},
+{
+"id":"2",
+"brand":"N&D Pumpkin",
+"type":"Grain Free Puppy",
+"price":"2,490.00",
+"Quantity":"2.5kg"
+},
+{
+"id":"3",
+"brand":"Drools Focus",
+"type":"Premium Puppy Dry Food",
+"price":"5,632.00",
+"Quantity":"15kg"
+},
+{
+"id":"4",
+"brand":"Acana",
+"type":"Puppy Dry Food",
+"price":"4,199.00",
+"Quantity":"6kg"
+},
+{
+"id":"5",
+"brand":"Orijen",
+"type":"Original Dog Dry Food",
+"price":"2kg",
+"Quantity":"2,399.00"
+},
